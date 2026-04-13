@@ -24,6 +24,7 @@
     "playwright",
     "fetch",
     "time",
-    "sequential-thinking"
+    "sequential-thinking",
+    "github"
   ]
 }
