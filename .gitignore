@@ -11,6 +11,9 @@
 # Auto-downloaded dependencies
 /scripts/vendor/bin/
 
+# Local Claude settings (may contain secrets)
+/.claude/settings.local.json
+
 # Tooling
 node_modules/
 .DS_Store
